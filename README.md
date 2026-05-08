@@ -38,6 +38,6 @@ Rural and Kannada-medium students often face a significant vocabulary gap when e
 
 ## 👨‍💻 Developed By
 
-**Meghana M** (4MW22CS093)  
+**Meghana M**   
 *Domain: Android App Development using GenAI*
 ```
