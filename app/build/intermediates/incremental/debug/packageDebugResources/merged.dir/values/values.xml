@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="accent">#00D2FF</color>
+    <color name="background">#F4F7F6</color>
+    <color name="cardBackground">#FFFFFF</color>
+    <color name="gradientEnd">#4A00E0</color>
+    <color name="gradientStart">#8E2DE2</color>
+    <color name="primary">#4A00E0</color>
+    <color name="primaryDark">#2C008E</color>
+    <color name="textPrimary">#1A1A24</color>
+    <color name="textSecondary">#6B7280</color>
+    <string name="app_name">Nalla-Nudi</string>
+    <string name="search_hint">Search English term...</string>
+    <string name="tab_all">All</string>
+    <string name="tab_commerce">Commerce</string>
+    <string name="tab_math">Math</string>
+    <string name="tab_my_list">My List</string>
+    <string name="tab_science">Science</string>
+    <string name="word_of_day">Word of the Day</string>
+    <style name="Theme.NallaNudi" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        <item name="colorPrimary">@color/primary</item>
+        <item name="colorPrimaryVariant">@color/primaryDark</item>
+        <item name="colorOnPrimary">@color/cardBackground</item>
+        <item name="colorSecondary">@color/accent</item>
+        <item name="colorSecondaryVariant">@color/accent</item>
+        <item name="colorOnSecondary">@color/textPrimary</item>
+        <item name="android:colorBackground">@color/background</item>
+    </style>
+    <style name="Theme.NallaNudi.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+</resources>

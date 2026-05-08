@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Nalla-Nudi</string>
+    <string name="search_hint">Search English term...</string>
+    <string name="tab_all">All</string>
+    <string name="tab_science">Science</string>
+    <string name="tab_math">Math</string>
+    <string name="tab_commerce">Commerce</string>
+    <string name="tab_my_list">My List</string>
+    <string name="word_of_day">Word of the Day</string>
+</resources>

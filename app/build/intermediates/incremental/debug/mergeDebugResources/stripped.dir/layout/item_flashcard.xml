@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_margin="32dp"
+    app:cardCornerRadius="24dp"
+    app:cardElevation="12dp">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@drawable/bg_gradient"
+        android:gravity="center"
+        android:orientation="vertical"
+        android:padding="32dp">
+
+        <TextView
+            android:id="@+id/tvEnglishTerm"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@android:color/white"
+            android:textSize="36sp"
+            android:textStyle="bold"
+            android:fontFamily="sans-serif-black"
+            android:gravity="center"
+            tools:text="Gravity" />
+
+        <ImageButton
+            android:id="@+id/btnTts"
+            android:layout_width="56dp"
+            android:layout_height="56dp"
+            android:layout_marginTop="24dp"
+            android:background="?attr/selectableItemBackgroundBorderless"
+            android:src="@android:drawable/ic_btn_speak_now"
+            app:tint="@color/accent" />
+
+        <TextView
+            android:id="@+id/tvKannadaExplanation"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="32dp"
+            android:gravity="center"
+            android:textColor="#E0F7FA"
+            android:textSize="26sp"
+            android:fontFamily="sans-serif-medium"
+            tools:text="ಗುರುತ್ವಾಕರ್ಷಣೆ" />
+
+        <TextView
+            android:id="@+id/tvExample"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="24dp"
+            android:gravity="center"
+            android:textColor="#B2EBF2"
+            android:textSize="18sp"
+            android:textStyle="italic"
+            android:lineSpacingExtra="4dp"
+            tools:text="Example: Newton's apple fell due to gravity." />
+
+    </LinearLayout>
+</androidx.cardview.widget.CardView>

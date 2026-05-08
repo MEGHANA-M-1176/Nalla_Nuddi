@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.7\\com.mindmatrix.nallanudi.app-mergeDebugResources-34:\\layout\\item_term.xml",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.7\\com.mindmatrix.nallanudi.app-main-37:\\layout\\item_term.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.7\\com.mindmatrix.nallanudi.app-mergeDebugResources-34:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.7\\com.mindmatrix.nallanudi.app-main-37:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.7\\com.mindmatrix.nallanudi.app-mergeDebugResources-34:\\layout\\item_flashcard.xml",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.7\\com.mindmatrix.nallanudi.app-main-37:\\layout\\item_flashcard.xml"
+    },
+    {
+        "merged": "com.mindmatrix.nallanudi.app-mergeDebugResources-34:/layout/activity_main.xml",
+        "source": "com.mindmatrix.nallanudi.app-main-37:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.mindmatrix.nallanudi.app-mergeDebugResources-34:/layout/item_term.xml",
+        "source": "com.mindmatrix.nallanudi.app-main-37:/layout/item_term.xml"
+    },
+    {
+        "merged": "com.mindmatrix.nallanudi.app-mergeDebugResources-34:/layout/item_flashcard.xml",
+        "source": "com.mindmatrix.nallanudi.app-main-37:/layout/item_flashcard.xml"
+    }
+]

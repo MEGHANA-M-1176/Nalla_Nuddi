@@ -1,0 +1,37 @@
+R_DEF: Internal format may change without notice
+local
+color accent
+color background
+color cardBackground
+color primary
+color primaryDark
+color textPrimary
+color textSecondary
+drawable bg_search
+id btnSave
+id btnTts
+id cvWordOfDay
+id recyclerView
+id searchView
+id tabLayout
+id tvEnglishTerm
+id tvExample
+id tvKannadaExplanation
+id tvSubject
+id tvTitle
+id tvWodKannada
+id tvWodTerm
+id viewPager
+layout activity_main
+layout item_flashcard
+layout item_term
+string app_name
+string search_hint
+string tab_all
+string tab_commerce
+string tab_math
+string tab_my_list
+string tab_science
+string word_of_day
+style Theme.NallaNudi
+style Theme.NallaNudi.NoActionBar

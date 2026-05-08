@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "com.mindmatrix.nallanudi.app-merged_res-35:/layout_item_flashcard.xml.flat",
+        "source": "com.mindmatrix.nallanudi.app-main-37:/layout/item_flashcard.xml"
+    },
+    {
+        "merged": "com.mindmatrix.nallanudi.app-merged_res-35:/layout_activity_main.xml.flat",
+        "source": "com.mindmatrix.nallanudi.app-main-37:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.mindmatrix.nallanudi.app-merged_res-35:/drawable_bg_search.xml.flat",
+        "source": "com.mindmatrix.nallanudi.app-main-37:/drawable/bg_search.xml"
+    },
+    {
+        "merged": "com.mindmatrix.nallanudi.app-merged_res-35:/layout_item_term.xml.flat",
+        "source": "com.mindmatrix.nallanudi.app-main-37:/layout/item_term.xml"
+    }
+]

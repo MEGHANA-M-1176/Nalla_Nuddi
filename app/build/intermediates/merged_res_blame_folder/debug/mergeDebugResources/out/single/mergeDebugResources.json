@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.7\\com.mindmatrix.nallanudi.app-debug-35:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.7\\com.mindmatrix.nallanudi.app-main-37:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "com.mindmatrix.nallanudi.app-debug-35:/layout_item_term.xml.flat",
+        "source": "com.mindmatrix.nallanudi.app-main-37:/layout/item_term.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.7\\com.mindmatrix.nallanudi.app-debug-35:\\drawable_bg_search.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.7\\com.mindmatrix.nallanudi.app-main-37:\\drawable\\bg_search.xml"
+    },
+    {
+        "merged": "com.mindmatrix.nallanudi.app-debug-35:/drawable_bg_gradient.xml.flat",
+        "source": "com.mindmatrix.nallanudi.app-main-37:/drawable/bg_gradient.xml"
+    },
+    {
+        "merged": "com.mindmatrix.nallanudi.app-debug-35:/layout_item_flashcard.xml.flat",
+        "source": "com.mindmatrix.nallanudi.app-main-37:/layout/item_flashcard.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.7\\com.mindmatrix.nallanudi.app-debug-35:\\layout_item_term.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.7\\com.mindmatrix.nallanudi.app-main-37:\\layout\\item_term.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.7\\com.mindmatrix.nallanudi.app-debug-35:\\layout_item_flashcard.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.7\\com.mindmatrix.nallanudi.app-main-37:\\layout\\item_flashcard.xml"
+    },
+    {
+        "merged": "com.mindmatrix.nallanudi.app-debug-35:/drawable_bg_subject_pill.xml.flat",
+        "source": "com.mindmatrix.nallanudi.app-main-37:/drawable/bg_subject_pill.xml"
+    },
+    {
+        "merged": "com.mindmatrix.nallanudi.app-debug-35:/layout_activity_main.xml.flat",
+        "source": "com.mindmatrix.nallanudi.app-main-37:/layout/activity_main.xml"
+    }
+]

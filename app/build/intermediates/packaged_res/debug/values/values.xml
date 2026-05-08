@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="accent">#FFC107</color>
+    <color name="background">#F5F5F5</color>
+    <color name="cardBackground">#FFFFFF</color>
+    <color name="primary">#4CAF50</color>
+    <color name="primaryDark">#388E3C</color>
+    <color name="textPrimary">#212121</color>
+    <color name="textSecondary">#757575</color>
+    <string name="app_name">Nalla-Nudi</string>
+    <string name="search_hint">Search English term...</string>
+    <string name="tab_all">All</string>
+    <string name="tab_commerce">Commerce</string>
+    <string name="tab_math">Math</string>
+    <string name="tab_my_list">My List</string>
+    <string name="tab_science">Science</string>
+    <string name="word_of_day">Word of the Day</string>
+    <style name="Theme.NallaNudi" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        <item name="colorPrimary">@color/primary</item>
+        <item name="colorPrimaryVariant">@color/primaryDark</item>
+        <item name="colorOnPrimary">@color/cardBackground</item>
+        <item name="colorSecondary">@color/accent</item>
+        <item name="colorSecondaryVariant">@color/accent</item>
+        <item name="colorOnSecondary">@color/textPrimary</item>
+        <item name="android:colorBackground">@color/background</item>
+    </style>
+    <style name="Theme.NallaNudi.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+</resources>
